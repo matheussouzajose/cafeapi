@@ -152,7 +152,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/matheussouzajose/cafeapi/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/matheussouzajose/cafeapi/blob/main/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -165,7 +165,8 @@ Thank you
 ## Credits
 
 - [Matheus Souza Jose](https://github.com/matheussouzajose) (Developer)
+- [All Contributors](https://github.com/matheussouzajose/cafeapi/contributors) (This Rock)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/matheussouzajose/cafeapi/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/matheussouzajose/cafeapi/blob/main/LICENSE) for more information.
