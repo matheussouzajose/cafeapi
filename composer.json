@@ -1,0 +1,30 @@
+{
+  "name": "matheussouzajose/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Matheus Souza Jose",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matheus Souza Jose",
+      "email": "matheus.jose@aluno.faculdadeimpacta.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MatheusSouzaJose\\CafeApi\\": "src"
+    }
+  }
+}
